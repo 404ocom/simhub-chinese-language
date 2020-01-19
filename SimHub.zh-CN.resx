@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="GameConfigurationManager_Title" xml:space="preserve">
-    <value>Game Configuration</value>
+    <value>游戏配置</value>
   </data>
   <data name="GameConfigurationManager_TelemetryTabTitle" xml:space="preserve">
     <value>Telemetry</value>
@@ -127,13 +127,13 @@
     <value>Telemetry settings</value>
   </data>
   <data name="GameConfigurationManager_TelemetrySettings_NoSettingsAvailable" xml:space="preserve">
-    <value>No settings available</value>
+    <value>无配置信息可用</value>
   </data>
   <data name="AboutPluginSDKLine1" xml:space="preserve">
-    <value>- Create new data</value>
+    <value>- 创建新数据</value>
   </data>
   <data name="AboutPluginSDKLine2" xml:space="preserve">
-    <value>- Create new actions</value>
+    <value>- 创建新动作</value>
   </data>
   <data name="AboutPluginSDKLine3" xml:space="preserve">
     <value>- Process game data</value>
@@ -145,10 +145,10 @@
     <value>Build your own plugin using the provided C# SDK</value>
   </data>
   <data name="AboutPluginSdkOpenSDK" xml:space="preserve">
-    <value>OPEN SIMHUB SDK</value>
+    <value>打开 SIMHUB SDK</value>
   </data>
   <data name="AboutSDK" xml:space="preserve">
-    <value>About</value>
+    <value>关于</value>
   </data>
   <data name="AdditionalPlugins" xml:space="preserve">
     <value>Additional plugins</value>
@@ -160,25 +160,25 @@
     <value>Administrator privileges</value>
   </data>
   <data name="AdminPrivilegesAlert" xml:space="preserve">
-    <value>To work properly SimHub requires administrator privileges, do you want to enable it now ?</value>
+    <value>为了使 SimHub 正常工作需要管理员权限，是否立即启用？</value>
   </data>
   <data name="AlwaysOnTop" xml:space="preserve">
-    <value>Always on top</value>
+    <value>始终在最前</value>
   </data>
   <data name="ArduinoHardwareSettings_Button_ApplyChangesNow" xml:space="preserve">
-    <value>Apply changes</value>
+    <value>应用改变</value>
   </data>
   <data name="ArduinoHardwareSettings_Button_OpenArduinoSetupTool" xml:space="preserve">
-    <value>Open arduino setup tool</value>
+    <value>打开 arduino 设置工具</value>
   </data>
   <data name="ArduinoHardwareSettings_Button_ScanForNewDevicesOnly" xml:space="preserve">
-    <value>Scan for new devices only</value>
+    <value>仅扫描新设备</value>
   </data>
   <data name="ArduinoHardwareSettings_Button_ResetAndScanForNewDevicesNow" xml:space="preserve">
     <value>Clear all devices and scan</value>
   </data>
   <data name="ArduinoHardwareSettings_CheckBox_DisableDevice" xml:space="preserve">
-    <value>Disable device</value>
+    <value>禁用设备</value>
   </data>
   <data name="ArduinoHardwareSettings_CheckBox_ReadButtons" xml:space="preserve">
     <value>Read buttons</value>
@@ -187,16 +187,16 @@
     <value>7 segments mod.</value>
   </data>
   <data name="ArduinoHardwareSettings_Label_ArduinoDisabled" xml:space="preserve">
-    <value>Arduino disabled</value>
+    <value>Arduino 已禁用</value>
   </data>
   <data name="ArduinoHardwareSettings_Label_CustomProtocol" xml:space="preserve">
-    <value>Custom protocol</value>
+    <value>定制协议</value>
   </data>
   <data name="ArduinoHardwareSettings_Label_DeviceName" xml:space="preserve">
-    <value>Device Name</value>
+    <value>设备名称</value>
   </data>
   <data name="ArduinoHardwareSettings_Label_Motors" xml:space="preserve">
-    <value>Motors</value>
+    <value>发动机</value>
   </data>
   <data name="ArduinoHardwareSettings_Label_MultipleArduinos" xml:space="preserve">
     <value>Multiple arduinos</value>
@@ -205,10 +205,10 @@
     <value>No devices detected</value>
   </data>
   <data name="ArduinoHardwareSettings_Label_NotConnected" xml:space="preserve">
-    <value>Not Connected</value>
+    <value>未连接</value>
   </data>
   <data name="ArduinoHardwareSettings_Label_RgbLeds" xml:space="preserve">
-    <value>RGB leds</value>
+    <value>RGB 灯</value>
   </data>
   <data name="ArduinoHardwareSettings_Label_ScanInProgress" xml:space="preserve">
     <value>Scan in progress ...</value>
@@ -223,28 +223,28 @@
     <value>- Unplugged</value>
   </data>
   <data name="ArduinoHardwareSettings_LinkButton_MoreInfos" xml:space="preserve">
-    <value>More infos ...</value>
+    <value>更多信息 ...</value>
   </data>
   <data name="ArduinoHardwareSettings_RadioButton_NeverScanSelectedPorts" xml:space="preserve">
     <value>Never scan selected ports</value>
   </data>
   <data name="ArduinoHardwareSettings_RadioButton_ScanAllSerialPorts" xml:space="preserve">
-    <value>Scan all serial ports</value>
+    <value>扫描所有串口</value>
   </data>
   <data name="ArduinoHardwareSettings_RadioButton_ScanOnlySelectedPorts" xml:space="preserve">
-    <value>Scan only selected ports</value>
+    <value>仅扫描已选端口</value>
   </data>
   <data name="ArduinoHardwareSettings_SectionTitle_ArduinoScanSettings" xml:space="preserve">
-    <value>ARDUINO SCAN SETTINGS</value>
+    <value>ARDUINO 扫描设置</value>
   </data>
   <data name="ArduinoHardwareSettings_SectionTitle_DetectedHardware" xml:space="preserve">
     <value>DETECTED HARDWARE</value>
   </data>
   <data name="ArduinoHardwareSettings_SectionTitle_DevicesScan" xml:space="preserve">
-    <value>DEVICES SCAN</value>
+    <value>扫描设备</value>
   </data>
   <data name="ArduinoHardwareSettings_SectionTitle_GeneralArduinoSettings" xml:space="preserve">
-    <value>GENERAL ARDUINO SETTINGS</value>
+    <value>常规 ARDUINO 设置</value>
   </data>
   <data name="ArduinoHardwareSettings_SectionTitle_MultipleArduinoSettings" xml:space="preserve">
     <value>MULTIPLE ARDUINO SETTINGS</value>
@@ -253,7 +253,7 @@
     <value>Choose how many arduinos you want to connect to SIMHUB</value>
   </data>
   <data name="ArduinoHardwareSettings_TextBlock_LcdRefreshSpeed" xml:space="preserve">
-    <value>LCD refresh speed</value>
+    <value>LCD 刷新速率</value>
   </data>
   <data name="ArduinoHardwareSettings_TextBlock_MatrixFont" xml:space="preserve">
     <value>Matrix Font</value>
@@ -376,7 +376,7 @@
     <value>Car settings</value>
   </data>
   <data name="ClearLicenseButton" xml:space="preserve">
-    <value>Clear license</value>
+    <value>清除许可证</value>
   </data>
   <data name="ControlPicker_Label_PressType" xml:space="preserve">
     <value>Press type</value>
@@ -451,13 +451,13 @@
     <value>Screen display announce</value>
   </data>
   <data name="DonatorLicense" xml:space="preserve">
-    <value>LICENSE</value>
+    <value>许可证</value>
   </data>
   <data name="EnableItNow" xml:space="preserve">
-    <value>Enable it now</value>
+    <value>现在启用</value>
   </data>
   <data name="ExitSimHub" xml:space="preserve">
-    <value>Exit SimHub</value>
+    <value>退出 SimHub</value>
   </data>
   <data name="FeatureIncludedInDonatorVersion" xml:space="preserve">
     <value>Feature included in registered version</value>
@@ -505,7 +505,7 @@
     <value>This game needs additional configuration</value>
   </data>
   <data name="Games" xml:space="preserve">
-    <value>Games</value>
+    <value>游戏</value>
   </data>
   <data name="GraphicalDashPluginList_ActionPicker_ClearLapHistoryForTheCurrentTrackAndCar" xml:space="preserve">
     <value>Clear lap history for the current track and car</value>
@@ -820,7 +820,7 @@
     <value>Live</value>
   </data>
   <data name="LoadLicenseButton" xml:space="preserve">
-    <value>Load license</value>
+    <value>加载许可证</value>
   </data>
   <data name="LogsClearLogsButton" xml:space="preserve">
     <value>Clear logs</value>
@@ -841,7 +841,7 @@
     <value>Discord Server</value>
   </data>
   <data name="MainWindowToolbarLicenseStatus" xml:space="preserve">
-    <value>Status :</value>
+    <value>状态 :</value>
   </data>
   <data name="MainWindowToolbarNewVersionAvailable" xml:space="preserve">
     <value>New version available :</value>
@@ -875,25 +875,25 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>Previous page</value>
   </data>
   <data name="NextionSettingsItem_Button_Apply" xml:space="preserve">
-    <value>Apply</value>
+    <value>应用</value>
   </data>
   <data name="NextionSettingsItem_Button_EditMapping" xml:space="preserve">
     <value>Edit Mapping</value>
   </data>
   <data name="NextionSettingsItem_Button_Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>刷新</value>
   </data>
   <data name="NextionSettingsItem_CheckBox_DebugMode" xml:space="preserve">
-    <value>Debug Mode</value>
+    <value>调试模式</value>
   </data>
   <data name="NextionSettingsItem_CheckBox_Enabled" xml:space="preserve">
-    <value>Enabled</value>
+    <value>已启用</value>
   </data>
   <data name="NextionSettingsItem_CheckBox_PowerOffScreenWhenNotInGame" xml:space="preserve">
     <value>Power Off screen when not in game</value>
   </data>
   <data name="NextionSettingsItem_CheckBox_UseEditor" xml:space="preserve">
-    <value>Use Editor</value>
+    <value>使用编辑器</value>
   </data>
   <data name="NextionSettingsItem_CustomNumericUpDown_HowManyLedsAreInstalled_ToolTip" xml:space="preserve">
     <value>How many leds are installed (arduino only)</value>
@@ -914,16 +914,16 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>Nextion #</value>
   </data>
   <data name="NextionSettingsItem_Label_SerialPort" xml:space="preserve">
-    <value>Serial port</value>
+    <value>串口</value>
   </data>
   <data name="NextionSettingsItem_Label_Template" xml:space="preserve">
-    <value>Template</value>
+    <value>模板</value>
   </data>
   <data name="NoThanks" xml:space="preserve">
-    <value>No thanks</value>
+    <value>不用谢</value>
   </data>
   <data name="OkButton" xml:space="preserve">
-    <value>OK</value>
+    <value>好的</value>
   </data>
   <data name="OpenGameInstructions" xml:space="preserve">
     <value>Open instructions</value>
@@ -932,25 +932,25 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>Add overlay</value>
   </data>
   <data name="OverlayEditor_AddParts_AddButton" xml:space="preserve">
-    <value>Add</value>
+    <value>添加</value>
   </data>
   <data name="OverlayEditor_AddParts_OkButton" xml:space="preserve">
-    <value>Ok</value>
+    <value>好的</value>
   </data>
   <data name="OverlayEditor_EditLayoutButton" xml:space="preserve">
-    <value>Edit layout</value>
+    <value>编辑 layout</value>
   </data>
   <data name="OverlayEditor_HideWhenNotInRaceCheckbox" xml:space="preserve">
-    <value>Hide when not in race</value>
+    <value>未比赛时隐藏</value>
   </data>
   <data name="OverlayEditor_SaveLayoutbutton" xml:space="preserve">
-    <value>Save layout</value>
+    <value>保存 layout</value>
   </data>
   <data name="OverlayEditor_StopEdit" xml:space="preserve">
-    <value>Stop edit</value>
+    <value>停止编辑</value>
   </data>
   <data name="OverlayEditor_WaitingForGame" xml:space="preserve">
-    <value>Waiting for the game</value>
+    <value>等待游戏</value>
   </data>
   <data name="OverlayEditor_WindowedBorderlessModeAlert" xml:space="preserve">
     <value>Make sure to configure your game in windowed or borderless mode</value>
@@ -959,16 +959,16 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>Overlay Layout editor</value>
   </data>
   <data name="PasteLicenseButton" xml:space="preserve">
-    <value>Paste license</value>
+    <value>粘贴许可证</value>
   </data>
   <data name="PasteLicenseContent" xml:space="preserve">
-    <value>Paste license content :</value>
+    <value>粘贴许可证内容 :</value>
   </data>
   <data name="PluginDescription_AfterburnerPlugin" xml:space="preserve">
     <value>Connects to Afterburner and provides CPU,GPU and framerate data</value>
   </data>
   <data name="PluginDescription_AudioControlPlugin" xml:space="preserve">
-    <value>Audio Control</value>
+    <value>声音控制</value>
   </data>
   <data name="PluginDescription_BA63Plugin" xml:space="preserve">
     <value>Connect a Diebold Nixdorf BA63 Display</value>
@@ -1010,13 +1010,13 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>Afterburner Connector</value>
   </data>
   <data name="PluginName_AudioControlPlugin" xml:space="preserve">
-    <value>Audio Control</value>
+    <value>声音控制</value>
   </data>
   <data name="PluginName_BA63Plugin" xml:space="preserve">
     <value>BA63 USB Display plugin</value>
   </data>
   <data name="PluginName_DataCorePlugin" xml:space="preserve">
-    <value>Core Data</value>
+    <value>核心数据</value>
   </data>
   <data name="PluginName_GmailPlugin" xml:space="preserve">
     <value>Gmail</value>
@@ -1055,7 +1055,7 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>Shell</value>
   </data>
   <data name="PluginName_SystemInfoPlugin" xml:space="preserve">
-    <value>System Info</value>
+    <value>系统信息</value>
   </data>
   <data name="PluginName_ThrustmastersPlugin" xml:space="preserve">
     <value>Thrustmasters FFB control</value>
@@ -1109,16 +1109,16 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>Replay speed</value>
   </data>
   <data name="RestoreSimHub" xml:space="preserve">
-    <value>Restore SimHub</value>
+    <value>恢复 SimHub</value>
   </data>
   <data name="RunAsAdministratorOption" xml:space="preserve">
-    <value>Run as administrator</value>
+    <value>以管理员身份运行</value>
   </data>
   <data name="RunAsAdministratorOptionComment" xml:space="preserve">
-    <value>Useful to grab all the system infos (like temperatures) or solve some game detection problems</value>
+    <value>有助于获取所有系统信息（例如温度）或解决一些游戏检测问题</value>
   </data>
   <data name="Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>设置</value>
   </data>
   <data name="SettingsAccentOption" xml:space="preserve">
     <value>Accent</value>
@@ -1217,7 +1217,7 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>常规</value>
   </data>
   <data name="SettingsGeneralTab" xml:space="preserve">
-    <value>General</value>
+    <value>常规</value>
   </data>
   <data name="SettingShowGameOption" xml:space="preserve">
     <value>Show game on homepage</value>
@@ -1247,10 +1247,10 @@ Do you want to enable it now ? You can do it at anytime from the settings</value
     <value>需要重新启动 SimHub</value>
   </data>
   <data name="SettingsRestoreDefaultForwardPort" xml:space="preserve">
-    <value>Restore default forward port</value>
+    <value>恢复默认转发端口</value>
   </data>
   <data name="SettingsRestoreDefaultPort" xml:space="preserve">
-    <value>Restore default port</value>
+    <value>恢复默认端口</value>
   </data>
   <data name="SettingsSpeedUnitOption" xml:space="preserve">
     <value>Speed Unit</value>
@@ -1325,10 +1325,10 @@ Wotever</value>
     <value>Forwarding UDP data will allow you to feed an additionnal application running on the same computer (127.0.0.1) or a remote computer/device, make sure to configure it on the port defined here.</value>
   </data>
   <data name="GameConfigurationManager_UDPForwardingTitle" xml:space="preserve">
-    <value>UDP forwarding</value>
+    <value>UDP 转发</value>
   </data>
   <data name="GameConfigurationManager_AutomaticGameConfigurationTitle" xml:space="preserve">
-    <value>Automatic Game configuration</value>
+    <value>自动游戏配置</value>
   </data>
   <data name="GameConfigurationManager_GameIsProperlyConfiguredInfo" xml:space="preserve">
     <value>Game is properly configured</value>
@@ -2068,7 +2068,7 @@ QR CODE</value>
     <value>Shows lap history and statistics.</value>
   </data>
   <data name="SettingsSystemInfos" xml:space="preserve">
-    <value>System infos</value>
+    <value>系统信息</value>
   </data>
   <data name="UseCustomTelemetryRecordDirectory" xml:space="preserve">
     <value>Use custom telemetry record directory</value>
